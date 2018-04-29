@@ -1,5 +1,5 @@
 # Quantitative_Analysis
-Downloaded data FROM 01-Jan-2018 to 11-Jan-2018 (TIMESYAMP:1514764800000 TO 1515644112219)
+Downloaded data FROM 01-Jan-2018 to 11-Jan-2018 (TIMESTAMP:1514764800000 TO 1515644112219)
 
 cleaned transaction data (transform Unix Timestamp to normal timestamp)
 
